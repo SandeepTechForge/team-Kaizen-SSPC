@@ -1,4 +1,1 @@
-pytesseract
-opencv-python
-pyttsx3
-pillow
+
